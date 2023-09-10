@@ -1,4 +1,1 @@
-venv/Scripts
-venv/Lib
-venv/Include
-venv/README.md
+.venv/*
